@@ -1,1 +1,2 @@
-# React Native Course | Level: Basic 👶
+# React Native Course
+## Level: Basic 👶
